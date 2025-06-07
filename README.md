@@ -19,3 +19,4 @@ https://github.com/iamsanju123/dice/blob/f696d712e3daf7d31e628e72ec740a9586702df
 https://github.com/iamsanju123/dice/blob/cecabd560723ba2f33700a5edadb2b0fef16ea9f/dice3.png
 https://github.com/iamsanju123/dice/blob/38422c877a680a6b792a5bb02dc86d5e0d129c2b/dice4.png
 https://github.com/iamsanju123/dice/blob/58f2df2d21b583e1bf9038a825dfe15c43de8219/dice5.png
+https://github.com/iamsanju123/dice/blob/d46ffe37770ee65f79b4d05ece74e5b9d8c65628/dice6.png
